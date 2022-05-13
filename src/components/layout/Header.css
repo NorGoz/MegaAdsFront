@@ -1,0 +1,27 @@
+header{
+    background-color: #6200EE;
+    padding: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+header h1{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+
+
+.search{
+    display: flex;
+}
+
+.search input{
+
+}
+
+.map{
+    background-color: green;
+    height: calc(100vh - 49px);
+    width: 100vw;
+}
