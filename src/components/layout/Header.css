@@ -20,8 +20,4 @@ header h1{
 
 }
 
-.map{
-    background-color: green;
-    height: calc(100vh - 49px);
-    width: 100vw;
-}
+
